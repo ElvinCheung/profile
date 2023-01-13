@@ -4,9 +4,9 @@ p{
 	font-family: Verdana;
 	color: black;
 }
-body {background-color: white;
+body {background-color: whitesmoke;
 }
-h1{color: white;
+h1{color: black;
 }
 #book{
 	height: 400px;width: 400px;background-color: green;padding: 10px
